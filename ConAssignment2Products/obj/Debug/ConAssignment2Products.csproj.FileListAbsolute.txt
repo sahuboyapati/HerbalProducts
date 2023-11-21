@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAssignment2Products\ConAssignment2Products\bin\Debug\ConAssignment2Products.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAssignment2Products\ConAssignment2Products\bin\Debug\ConAssignment2Products.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAssignment2Products\ConAssignment2Products\bin\Debug\ConAssignment2Products.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAssignment2Products\ConAssignment2Products\obj\Debug\ConAssignment2Products.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAssignment2Products\ConAssignment2Products\obj\Debug\ConAssignment2Products.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAssignment2Products\ConAssignment2Products\obj\Debug\ConAssignment2Products.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day12\ConAssignment2Products\ConAssignment2Products\obj\Debug\ConAssignment2Products.pdb
